@@ -1,2 +1,3 @@
 # first
-thunder
+雷
+开心
